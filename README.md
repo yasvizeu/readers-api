@@ -17,7 +17,7 @@ Este repositório contém a **MVP1**, que cobre a fundação do sistema.
 - [Node.js](https://nodejs.org/) + [NestJS](https://nestjs.com/)  
 - [TypeScript](https://www.typescriptlang.org/)  
 - [TypeORM](https://typeorm.io/)  
-- Banco de dados: **PostgreSQL** (pode trocar por MySQL, se preferir)  
+- Banco de dados: **PostgreSQL**
 - Autenticação: **JWT (JSON Web Token)**  
 - Integração com **Google Books API**  
 
